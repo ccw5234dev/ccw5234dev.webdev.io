@@ -6,4 +6,9 @@ h1 {
 table, th, td {
     border: 1px solid black;
     border: ridge rgba(50, 92, 64, 0.877);
+    align-content:center;
+}
+
+tr{
+  align-content:center;
 }
