@@ -15,7 +15,7 @@ function createDefaultHappinessBar(){
 
     context.fillRect(20,20,100,100);
     context.clearRect(40,40,60,60);
-    context.strokeRect(45,45,50,50);
+    context.strokeRect(10,10,5,5);
     context.rotate(20* Math.PI / 90);
   }
 }
