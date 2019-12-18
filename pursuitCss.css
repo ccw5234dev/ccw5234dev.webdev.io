@@ -6,13 +6,16 @@ h4{
 }
 
 .divContainer{
-background:rgb(237,237,237,.5);
+background:rgb(120,120,120,.8);
 }
 
 .divTextLinks{
 
 }
 
+body{
+  background-repeat: no-repeat;
+}
 
 
 a:link{
