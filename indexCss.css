@@ -3,13 +3,6 @@ h1 {
   font-family: Lucida;
 }
 
-table, th, td {
-    border: 1px solid black;
-    border: ridge rgba(50, 92, 64, 0.877);
-    align-content:center;
-}
-
-tr{
-  font-size:20px;
-  align-content:center;
+h4{
+  text-align: center;
 }
