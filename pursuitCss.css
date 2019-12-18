@@ -1,0 +1,45 @@
+h4{
+  font-size:18px;
+  font-family:fantasy;
+  color:white;
+  text-align-last:center;
+}
+
+.divContainer{
+background:rgb(237,237,237,.5);
+}
+
+.divTextLinks{
+
+}
+
+
+
+a:link{
+  text-decoration:none;
+  background-color:#403d2b;
+  color:white;
+  text-align:center;
+  display: block;
+  font-family:fantasy;
+  padding: 14px 25px;
+  font-size:18px;
+  margin: .5%;
+
+}
+
+a:visited{
+  text-decoration:none;
+  background-color:#403d2b;
+  color:white;
+  text-align:center;
+  display: block;
+  font-family:fantasy;
+  padding: 14px 25px;
+  font-size:18px;
+  margin: 10%
+}
+
+a:hover{
+  background-color:#1f1d16;
+}
